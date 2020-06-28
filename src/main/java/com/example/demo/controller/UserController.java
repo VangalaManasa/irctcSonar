@@ -18,6 +18,8 @@ import com.example.demo.service.UserService;
  */
 @RestController
 public class UserController {
+//This is a user contorller
+
 
 	private static Log logger = LogFactory.getLog(UserController.class);
 
