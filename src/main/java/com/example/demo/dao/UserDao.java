@@ -12,7 +12,11 @@ import com.example.demo.model.User;
  *
  */
 @Repository
+
+
 public interface UserDao extends CrudRepository<User, Integer> {
+
+//THis is a use dAO
 
 	
 	/**
