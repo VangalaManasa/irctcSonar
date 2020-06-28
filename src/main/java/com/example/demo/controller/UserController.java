@@ -13,7 +13,7 @@ import com.example.demo.exceptions.InvalidCredentialsException;
 import com.example.demo.service.UserService;
 
 /**
- * @author Manasa
+ * @author supriya
  *
  */
 @RestController
